@@ -87,7 +87,7 @@ namespace ConsoleAppRandomMethods
         {
             foreach (var item in PasswordsGenerator)
             {
-                Console.WriteLine(item);
+                Console.WriteLine(item );
             }
         }
 
